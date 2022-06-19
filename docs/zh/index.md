@@ -1,0 +1,4 @@
+# MyBlog
+
+![](@images/user.jpg)
+
