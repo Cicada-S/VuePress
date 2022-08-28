@@ -1,0 +1,1 @@
+import{_ as t}from"./user.a2d6bbdf.js";import{_ as o,o as _,c as s,a as e}from"./app.c2ac877c.js";const c={},n=e("h1",null,"MyBlog",-1),r=e("p",null,[e("img",{src:t,alt:""})],-1),a=[n,r];function l(i,d){return _(),s("div",null,a)}var h=o(c,[["render",l],["__file","index.html.vue"]]);export{h as default};

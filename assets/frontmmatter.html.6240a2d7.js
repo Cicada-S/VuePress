@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as r,a as o}from"./app.c2ac877c.js";const a={},n=o("h1",null,"frontmatter",-1),_=[n];function c(s,l){return e(),r("div",null,_)}var f=t(a,[["render",c],["__file","frontmmatter.html.vue"]]);export{f as default};
