@@ -101,12 +101,13 @@ const onePlusTwoPlusThree = {{ 1 + 2 + 3 }}
 @[code](@vuepress/config.ts)
 
 
-
+<!-- for 循环 -->
 一加一等于： {{ 1 + 1 }}
 
 <span v-for="i in 3"> span: {{ i }} </span>
 
 
+<!-- 使用Vue组件 -->
 这是默认主题内置的 `<Badge />` 组件 <Badge text="演示" />
 
 
@@ -157,6 +158,7 @@ const bar = 'bar'
 - VuePress - <Badge type="danger" text="v2" vertical="bottom" />
 
 
+<!--  -->
 <CodeGroup>
   <CodeGroupItem title="YARN">
 
@@ -180,7 +182,4 @@ npm install
 
 
 <img :src="$withBase('/user.jpg')" alt="VuePress Logo">
-
-
-
 
